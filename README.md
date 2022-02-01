@@ -1,8 +1,6 @@
-### Hi there, I'm Jey 👋 
+### Hi there and welcome, I'm Jey 👋 
 
-##Future Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Ruby on Rails, React Native
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
