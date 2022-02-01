@@ -29,7 +29,7 @@
 <br />
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?babojack=&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Babojack=&theme=radical)
 
 ---
 
