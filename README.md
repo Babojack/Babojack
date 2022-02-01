@@ -1,11 +1,11 @@
+<!-- markdownlint-disable MD033 MD041-->
 <p align="center">
   <h3 align="center">⌨️ Readme Typing SVG</h3>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello there:)+Weclome+to+my+profile+&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+and+Welcome!;My+name+is+Jey(hun)+Mago(med)!;Fix+the+code!;not+the+symptom!;&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-
 
 
 
@@ -13,6 +13,7 @@
 - 🥅 2022 Goals: Ruby on Rails, React Native
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
 - Co-Founder: www.cabid.net, www.dartikel.de
+- 🗣️ 🇺🇸 🇩🇪 🇷🇺 🇹🇷🇪
 
 ### My Stat:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babojack&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
