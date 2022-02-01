@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: 
-- ⚡ Fun fact: I love to wrestle, play tennis and... to cook![image](https://user-images.githubusercontent.com/81936491/152036779-bc7cb82a-ad25-438f-957a-23d871c05d66.png)
-
+- ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
 
 ### Connect with me:
 
