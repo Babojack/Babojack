@@ -32,64 +32,64 @@
 
 <br />
 <br />
-1. 
-2. ---
-3. 
-4. ### 📺 Latest YouTube Videos
-5. 
-6. <!-- YOUTUBE:START -->
-7. - [STACKr News Weekly: Trade Stocks with JavaScript, Create an NFT Landing Page, Ultimate Pandas Guide!](https://www.youtube.com/watch?v=_fuYgCxbvLw)
-8. - [How To Google Like A Pro! Top 18 Google Search Tips &amp; Tricks 2022](https://www.youtube.com/watch?v=LrVN52dhRxY)
-9. - [How to create an NFT website landing page &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;](https://www.youtube.com/watch?v=WZQSVv67NBc)
-10. - [STACKr News Weekly: Crypto, Tech Jobs, and Remix](https://www.youtube.com/watch?v=UUjIUNMlFno)
-11. - [AngularJS is Dead](https://www.youtube.com/watch?v=y4I_ITZIpxM)
-12. <!-- YOUTUBE:END -->
-13. 
-14. ➡️ [more videos...](https://youtube.com/codestackr)
-15. 
-16. ---
-17. 
-18. ### 📕 Latest Blog Posts
-19. 
-20. <!-- BLOG-POST-LIST:START -->
-21. - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-22. - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-23. - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-24. - [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-25. - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-26. <!-- BLOG-POST-LIST:END -->
-27. 
-28. ➡️ [more blog posts...](https://codestackr.com)
-29. 
-30. ---
-31. 
-32. <details>
-33.   <summary>:zap: Recent GitHub Activity</summary>
-34.   
-35. <!--START_SECTION:activity-->
-36. 1. ❗️ Closed issue [#49](https://github.com/codeSTACKr/create-10k-nft-collection/issues/49) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-37. 2. 🗣 Commented on [#49](https://github.com/codeSTACKr/create-10k-nft-collection/issues/49) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-38. 3. ❗️ Closed issue [#50](https://github.com/codeSTACKr/create-10k-nft-collection/issues/50) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-39. 4. ❗️ Closed issue [#51](https://github.com/codeSTACKr/create-10k-nft-collection/issues/51) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-40. 5. 🗣 Commented on [#51](https://github.com/codeSTACKr/create-10k-nft-collection/issues/51) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-41. <!--END_SECTION:activity-->
-42. 
-43. </details>
-44. 
-45. <details>
-46.   <summary>:zap: GitHub Stats</summary>
-47. 
-48.   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-49. 
-50. </details>
-51. 
-52. [website]: https://codeSTACKr.com
-53. [course]: http://vsCodeHero.com
-54. [twitter]: https://twitter.com/codeSTACKr
-55. [youtube]: https://youtube.com/codeSTACKr
-56. [instagram]: https://instagram.com/codeSTACKr
-57. [linkedin]: https://linkedin.com/in/codeSTACKr
-58. [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-59. [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-60. [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-61. [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [STACKr News Weekly: Trade Stocks with JavaScript, Create an NFT Landing Page, Ultimate Pandas Guide!](https://www.youtube.com/watch?v=_fuYgCxbvLw)
+- [How To Google Like A Pro! Top 18 Google Search Tips &amp; Tricks 2022](https://www.youtube.com/watch?v=LrVN52dhRxY)
+- [How to create an NFT website landing page &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;](https://www.youtube.com/watch?v=WZQSVv67NBc)
+- [STACKr News Weekly: Crypto, Tech Jobs, and Remix](https://www.youtube.com/watch?v=UUjIUNMlFno)
+- [AngularJS is Dead](https://www.youtube.com/watch?v=y4I_ITZIpxM)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#49](https://github.com/codeSTACKr/create-10k-nft-collection/issues/49) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+2. 🗣 Commented on [#49](https://github.com/codeSTACKr/create-10k-nft-collection/issues/49) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+3. ❗️ Closed issue [#50](https://github.com/codeSTACKr/create-10k-nft-collection/issues/50) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+4. ❗️ Closed issue [#51](https://github.com/codeSTACKr/create-10k-nft-collection/issues/51) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+5. 🗣 Commented on [#51](https://github.com/codeSTACKr/create-10k-nft-collection/issues/51) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
