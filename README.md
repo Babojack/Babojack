@@ -1,15 +1,16 @@
 ### Hi there and welcome, I'm Jey 👋 
 
 
+
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Ruby on Rails, React Native
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
 - Co-Founder: www.cabid.net, www.dartikel.de
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-
+### My Stat:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babojack&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+2. [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 <br />
 
 ### Languages and Tools:
@@ -29,7 +30,6 @@
 <br />
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Babojack=&theme=radical)
 
 ---
 
