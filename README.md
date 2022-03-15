@@ -18,6 +18,7 @@
 - 🥅 2022 Goals: Ruby on Rails, React Native
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
 - Co-Founder: www.cabid.net, www.dartikel.de
+- Worked on Dating App based on Rails - www.blind-8.live (MobView)
 - 🗣️ 🇺🇸 🇩🇪 🇷🇺 🇹🇷🇪
 
 ### My Stat:
