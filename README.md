@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
 - Co-Founder: www.cabid.net, www.dartikel.de
 - Worked on Dating App based on Rails - www.blind-8.live (MobView)
-- I am currently working on "HelpStar"
+- I am currently working on my own project "HelpStar" - "Help People, Earn Money, become a HelperStar"
 - 🗣️ 🇺🇸 🇩🇪 🇷🇺 🇹🇷🇪
 
 ### My Stat:
