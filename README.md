@@ -21,6 +21,8 @@
 - Worked on Dating App based on Rails - www.blind-8.live (MobView)
 - I am currently working on my own project "HelpStar" - "Help People, Earn Money, become a HelperStar"
 - 🗣️ 🇺🇸 🇩🇪 🇷🇺 🇹🇷🇪
+- About me: There are changes in life that can open up for you
+new unexplored paths. The only question is, do you dare to follow one of them? In 2009 my father sent me on a special secret mission to Germany. I was told that this was a secret mission for the benefit of our country). My mission was to study and find a job. Now I realized that this was not a mission, just my parents wanted my room to make a yoga hall out of it. 
 
 ### My Stat:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babojack&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
