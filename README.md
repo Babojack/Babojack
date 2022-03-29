@@ -23,7 +23,7 @@
 - 🗣️ 🇺🇸 🇩🇪 🇷🇺 🇹🇷🇪
 - About me: There are changes in life that can open up for you
 new unexplored paths. The only question is, do you dare to follow one of them? In 2009 my father sent me on a special secret mission to Germany. I was told that this was a secret mission for the benefit of our country). My mission was to study and find a job. Now I realized that this was not a mission, just my parents wanted my room to make a yoga hall out of it. 
-- Contact me: <a href="https://instagram.com/mago_jey" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mago.jey" height="30" width="40" style="max-width: 100%;"></a>
+- Stalk me on: <a href="https://www.instagram.com/jey_mago/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mago.jey" height="30" width="40" style="max-width: 100%;"></a>
 
 ### My Stat:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babojack&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
