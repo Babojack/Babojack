@@ -1,15 +1,12 @@
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
   <h3 align="center">⌨️ 
-    if(brain!=empty)
-        {keepCoding();
-      }else{ 
-        orderCoffe() 
-      } </h3>
+  Opportunities for new adventures in life are endless. The question is, do you have the courage to embrace them?
+J. M. Afandiyev
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Opportunities+for+new+adventures+in+life+are+endless+The+question+is+do+you+have+the+courage+to+embrace+them?+J+M+Afandiyev;&font=Fira%20Code&center=true&width=380&height=89">
+  <img src="https://readme-typing-svg.herokuapp.com/?Opportunities+for+new+adventures+in+life+are+endless+The+question+is+do+you+have+the+courage+to+embrace+them?+J+M+Afandiyev;&font=Fira%20Code&center=true&width=380&height=89">
 
 </p>
 
