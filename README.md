@@ -9,21 +9,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+and+Welcome!;My+name+is+Jey(hun)+Mago(med)!;Fix+the+code!;not+the+symptom!;&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Opportunities+for+new+adventures+in+life+are+endless.+The+question+is,+do+you+have+the+courage+to+embrace+them?+J.+M.+Afandiyev;&font=Fira%20Code&center=true&width=380&height=50">
+
 </p>
 
 
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Ruby on Rails, React Native
+- 🥅 2023 Goals: PythonScala, Golang, better version of me
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
 - Co-Founder: www.cabid.net, www.dartikel.de
-- Worked on Dating App based on Rails - www.blind-8.live (MobView)
-- I am currently working on my own project "HelpStar" - "Help People, Earn Money, become a HelperStar"
+- I am currently working on my own project Helpstar -  "Unleash the HelperStar in You - Help People and Earn Money!"
 - 🗣️ 🇺🇸 🇩🇪 🇷🇺 🇹🇷🇪
 - About me: 
-"Opportunities for new adventures in life are endless. The question is, do you have the courage to embrace them?
-J. M. Afandiyev
 
 You know how parents can be, always coming up with crazy ideas. Back in 2009, my dad sent me on a top-secret mission to Germany, telling me it was for the good of our country. Little did I know, the mission was to find a job and start a new life there. But now I realize the truth - they just wanted to turn my room into a yoga studio! I guess I should have seen the signs when they started hoarding yoga mats and incense sticks. But hey, at least I got a new adventure out of it!
 - Stalk me on: <a href="https://www.instagram.com/jey_mago/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mago.jey" height="30" width="40" style="max-width: 100%;"></a>
