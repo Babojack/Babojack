@@ -21,8 +21,11 @@
 - Worked on Dating App based on Rails - www.blind-8.live (MobView)
 - I am currently working on my own project "HelpStar" - "Help People, Earn Money, become a HelperStar"
 - 🗣️ 🇺🇸 🇩🇪 🇷🇺 🇹🇷🇪
-- About me: There are changes in life that can open up for you
-new unexplored paths. The only question is, do you dare to follow one of them? In 2009 my father sent me on a special secret mission to Germany. I was told that this was a secret mission for the benefit of our country). My mission was to study and find a job. Now I realized that this was not a mission, just my parents wanted my room to make a yoga hall out of it. 
+- About me: 
+"Opportunities for new adventures in life are endless. The question is, do you have the courage to embrace them?
+J. M. Afandiyev
+
+You know how parents can be, always coming up with crazy ideas. Back in 2009, my dad sent me on a top-secret mission to Germany, telling me it was for the good of our country. Little did I know, the mission was to find a job and start a new life there. But now I realize the truth - they just wanted to turn my room into a yoga studio! I guess I should have seen the signs when they started hoarding yoga mats and incense sticks. But hey, at least I got a new adventure out of it!
 - Stalk me on: <a href="https://www.instagram.com/jey_mago/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mago.jey" height="30" width="40" style="max-width: 100%;"></a>
 
 ### My Stat:
