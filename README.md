@@ -5,8 +5,7 @@
 J. M. Afandiyev
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?Opportunities+for+new+adventures+in+life+are+endless+The+question+is+do+you+have+the+courage+to+embrace+them?+J+M+Afandiyev;&font=Fira%20Code&center=true&width=380&height=89">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=.+...+.-..+..+%2F+-+-.--+%2F+---.+..+-+.-+.+----+-..-+%2F+..-..+-+---+--..--+%2F+-+---+%2F+.-.-+%2F+...-+.+.-..+.-+..--+%2F+-+.+-...+.+%2F+.--.+.-.+---+...+-+---+%2F+..-+...+.--.+.+....+---+.--+%2F+..+%2F+--+-.+---+--.+---+%2F+--..+-..+---+.-.+---+.--+-..-+.-.-+-.-.--)](https://git.io/typing-svg)
 
 </p>
 
