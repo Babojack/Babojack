@@ -12,7 +12,7 @@ J. M. Afandiyev
 
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: PythonScala, Golang, better version of me
+- 🥅 2024 Goals: better version of me
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
 - Co-Founder: www.cabid.net, www.dartikel.de
 - I am currently working on my own project Helpstar -  "Unleash the HelperStar in You - Help People and Earn Money!"
