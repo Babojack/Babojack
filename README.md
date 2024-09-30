@@ -11,7 +11,7 @@ J. M. Afandiyev
 
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2024 Goals: better version of me
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
 - Co-Founder: www.cabid.net, www.dartikel.de, www.auszubi.de
@@ -22,8 +22,6 @@ J. M. Afandiyev
 You know how parents can be, always coming up with crazy ideas. Back in 2009, my dad sent me on a top-secret mission to Germany, telling me it was for the good of our country. Little did I know, the mission was to find a job and start a new life there. But now I realize the truth - they just wanted to turn my room into a yoga studio! I guess I should have seen the signs when they started hoarding yoga mats and incense sticks. But hey, at least I got a new adventure out of it!
 - Stalk me on: ...
 
-### My Stat:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babojack&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ### Languages and Tools:
 
