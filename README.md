@@ -23,6 +23,7 @@ You know how parents can be, always coming up with crazy ideas. Back in 2009, my
 - Stalk me on: 
 telegram: https://t.me/streichholzschachtelx
 Linkedin: https://www.linkedin.com/in/jay-jeyhun-m-afandiyev-28178b230/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-jeyhun-m-afandiyev-28178b230/)
 
 
 ### Languages and Tools:
