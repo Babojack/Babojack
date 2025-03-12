@@ -20,7 +20,9 @@ J. M. Afandiyev
 - About me: 
 
 You know how parents can be, always coming up with crazy ideas. Back in 2009, my dad sent me on a top-secret mission to Germany, telling me it was for the good of our country. Little did I know, the mission was to find a job and start a new life there. But now I realize the truth - they just wanted to turn my room into a yoga studio! I guess I should have seen the signs when they started hoarding yoga mats and incense sticks. But hey, at least I got a new adventure out of it!
-- Stalk me on: ...
+- Stalk me on: 
+telegram: https://t.me/streichholzschachtelx
+Linkedin: https://www.linkedin.com/in/jay-jeyhun-m-afandiyev-28178b230/
 
 
 ### Languages and Tools:
