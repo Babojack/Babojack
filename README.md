@@ -11,7 +11,7 @@ J. M. Afandiyev
 
 
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently working on https://adhdtracker.netlify.app
 - 🥅 2025 Goals: better version of me
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
 - Co-Founder: cabid.net, dartikel.de, auszubi.de, furnigo.de
