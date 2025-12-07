@@ -17,7 +17,17 @@ J. M. Afandiyev
 - Co-Founder: cabid.net, dartikel.de, auszubi.de, furnigo.de, 
 - Application Manager/Anwendungsbetreuer
 - 🗣️ 🇺🇸 🇩🇪 🇷🇺 🇹🇷🇪
-- About me: 
+- About me:
+
+🇺🇸
+<video src="https://github.com/user-attachments/assets/41200e64-9cb6-466a-9946-5a4187ef1123" controls="controls" style="max-width: 730px;">
+</video>
+
+🇩🇪 
+
+
+<video src="https://github.com/user-attachments/assets/3149bb67-6c4c-4309-8761-66f549500ccf" controls="controls" style="max-width: 730px;">
+</video>
 
 You know how parents can be, always coming up with crazy ideas. Back in 2009, my dad sent me on a top-secret mission to Germany, telling me it was for the good of our country. Little did I know, the mission was to find a job and start a new life there. But now I realize the truth - they just wanted to turn my room into a yoga studio! I guess I should have seen the signs when they started hoarding yoga mats and incense sticks. But hey, at least I got a new adventure out of it!
 - Stalk me on: 
