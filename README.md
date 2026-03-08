@@ -12,7 +12,7 @@ J. M. Afandiyev
 
 
 - 🌱 I’m currently working on GYMSTA
-- 🥅 2025 Goals: better version of me
+- 🥅 2026 Goals: better version of me
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
 - Co-Founder: cabid.net, dartikel.de, auszubi.de, furnigo.de, 
 - Application Manager/Anwendungsbetreuer
