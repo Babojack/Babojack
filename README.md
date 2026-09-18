@@ -14,7 +14,7 @@ J. M. Afandiyev
 - 🌱 I’m currently working on GYMSTA
 - 🥅 2026 Goals: better version of me
 - ⚡ Fun fact: I love to wrestle, play tennis and... to cook!<span style='font-size:100px;'>&#127858;</span>
-- Co-Founder: www.cabid.net, www.vunileia.de, www.orbylox.de 
+- Co-Founder: www.cabid.net, www.vunelia.de, www.orbylox.de 
 - Application Manager/Anwendungsbetreuer
 - 🗣️ 🇺🇸 🇩🇪 🇷🇺 🇹🇷🇪
 - About me:
